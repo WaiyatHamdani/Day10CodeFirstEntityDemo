@@ -1,0 +1,14 @@
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\bin\Debug\Day10CodeFirstDemo.exe.config
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\bin\Debug\Day10CodeFirstDemo.exe
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\bin\Debug\Day10CodeFirstDemo.pdb
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\obj\Debug\Day10CodeFirstDemo.csprojAssemblyReference.cache
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\obj\Debug\Day10CodeFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\obj\Debug\Day10CodeFirstDemo.csproj.CopyComplete
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\obj\Debug\Day10CodeFirstDemo.exe
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\obj\Debug\Day10CodeFirstDemo.pdb
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\obj\Debug\Day10CodeFirstDemo.Migrations.CreateCourse.resources
+C:\Users\waiya\source\repos\Day10CodeFirstDemo\Day10CodeFirstDemo\obj\Debug\Day10CodeFirstDemo.csproj.GenerateResource.cache
